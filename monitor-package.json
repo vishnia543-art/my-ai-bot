@@ -1,0 +1,12 @@
+{
+  "name": "light-water-monitor-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "openai": "^4.98.0",
+    "dotenv": "^16.4.7"
+  }
+}
